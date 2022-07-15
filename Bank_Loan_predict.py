@@ -50,8 +50,8 @@ data.isnull().sum()
 # In[8]:
 
 
-import matplotlib.pyplot as plt
-import seaborn as sns
+#import matplotlib.pyplot as plt
+#import seaborn as sns
 
 
 
